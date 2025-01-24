@@ -3,3 +3,5 @@ it will generate a random password of given length by user . there are two check
 and same with number checkbox it will also add an integer in password.
 Random password is generated with the help of random function of javascript 
 there is a copy button  when we clicked on that then it will copy the generated password on clipboard .we can copy any number of character of password.
+
+https://monk0707.github.io/random-password-generator/
